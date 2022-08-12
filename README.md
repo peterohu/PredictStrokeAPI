@@ -7,7 +7,7 @@ Steps to follow to run the project on WINDOWS:
     pip install virtualenv
 
     
-    cd reviewsa
+    cd PredictStrokeAPI
 
     // Install virtualenv to folder venv in project
     virtualenv venv

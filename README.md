@@ -13,7 +13,7 @@ Steps to follow to run the project on WINDOWS:
     virtualenv venv
 
     // Activate virtualenv
-    venv\Scripts\activate
+    source venv/Scripts/activate
 
     // Install librarys
     pip install -r requirements.txt --no-cache-dir
